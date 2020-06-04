@@ -56,6 +56,14 @@ body .nav-link {
 
 }
 
+#carousel2 .p {
+  /* font-family: "Libre Baskerville"; */
+
+  text-align: center;
+  font-size: 30px;
+  
+
+}
 
 
 
@@ -75,6 +83,12 @@ body .nav-link {
   
 }
 
+/* alinhamento produtos */
+#itens {
+
+  text-align: center;
+
+}
 
 
 
