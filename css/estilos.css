@@ -106,3 +106,17 @@ text-align: center;
 }
 
 
+footer {
+  background-color: #28a745;
+  text-align: center;
+  color:White;
+  font-family: "Anton";
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+div ul li {
+  /* () <div id= "nome do link HTML"</div> ) permite criar uma tag de  identificação especifica para aplicar regras css individuais -->*/
+  /* Altera os links redes sociais para o centro */
+  display: inline-block;
+}
