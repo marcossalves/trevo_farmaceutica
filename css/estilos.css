@@ -38,7 +38,7 @@ body .nav-link {
   height: auto;
   width: 100%;
   padding: 0px;
-  box-shadow: 0px 18px  0px #dcedc8;
+  box-shadow: 0px 18px  0px #28a745;
   
 }
 
@@ -68,7 +68,7 @@ body .nav-link {
 
 /* card contendo a foto  das cápsulas */
 #card {
-  margin: 50px 10px 10px 50px;
+  margin: 5px 5px 5px 5px;
   display: inline-block;
   text-align: center;
   box-shadow: 1px 1px 1px 1px#dcedc8;
