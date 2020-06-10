@@ -114,9 +114,7 @@ footer {
   padding-top: 20px;
   font-weight: bold;
 }
-
+/* Altera os links redes sociais para o centro */
 div ul li {
-  /* () <div id= "nome do link HTML"</div> ) permite criar uma tag de  identificação especifica para aplicar regras css individuais -->*/
-  /* Altera os links redes sociais para o centro */
   display: inline-block;
 }
