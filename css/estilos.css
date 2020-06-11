@@ -111,7 +111,9 @@ div ul li {
 #card img {
   width: 200px;
   height: 150px;
+  cursor: pointer;
   
+ 
 }
 
 /* alinhamento produtos */
