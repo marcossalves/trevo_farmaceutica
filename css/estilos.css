@@ -26,11 +26,11 @@ height: auto;
 /* Texto barra de navegação */
 #barranavegacao ul li a  {
 
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
-
-font-size: 20px;
-width: 90pt;
-text-shadow: 2px 0px 0px  white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  text-align: center;
+  font-size: 20px;
+  width: 100pt;
+  text-shadow: 2px 0px 0px  white;
 }
 
 
